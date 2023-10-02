@@ -1,0 +1,2 @@
+# Q1aiii
+Information gain prefers splitting things into distinct categories based on attribute values while the GINI method likes to group multiple attributes together to try and minimize the probablility of misclassifying an instance.

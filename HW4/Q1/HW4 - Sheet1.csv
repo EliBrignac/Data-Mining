@@ -1,0 +1,21 @@
+SHOTS,HAIR,SIZE,TAKE-HOME
+all,long,tiny,no
+all,long,tiny,yes
+all,long,tiny,yes
+all,short,tiny,yes
+none,short,huge,no
+all,short,huge,no
+none,short,huge,no
+all,long,huge,no
+all,short,huge,no
+all,short,huge,yes
+all,long,medium,yes
+none,short,huge,no
+none,short,huge,no
+all,long,medium ,yes
+all,long,medium ,yes
+all,short,medium ,no
+all,long,medium,yes
+none,short,huge,no
+none,short,huge,no
+all,short,huge,no
