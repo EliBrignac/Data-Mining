@@ -1,0 +1,7 @@
+#OF-INSTANCES,SIZE,SECTOR,RATING,DECISION?
+17,large,Technology,4-star,INVEST
+14,large,Technology,4-star,REJECT
+15,medium,Technology,4-star,INVEST
+22,medium,Technology,4-star,REJECT
+4,small,Technology,4-star,INVEST
+6,small,Technology,4-star,REJECT
